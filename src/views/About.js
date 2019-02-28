@@ -1,4 +1,4 @@
-<script>
+
 import { myMixin } from '../mixin/test.js'
 export default {
   data () {
@@ -39,5 +39,4 @@ export default {
     },
   }
 }
-</script>
 
